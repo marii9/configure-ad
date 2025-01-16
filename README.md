@@ -20,10 +20,15 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 - Windows 10</b> (21H2)
 
 Launch Server Manager
+
 Add roles and features
+
 Promote the server to Domain controller
+
 Create Users and Groups
+
 Join Client Computers to the Domain
+
 
 
 
