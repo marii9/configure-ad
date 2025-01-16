@@ -1,7 +1,7 @@
 # configure-ad
 
 <p align="center">
-<img src="https://i.imgur.com/TcVVr1.png" alt="osTicket logo"/>
+<img src="https://i.imgur.com/TcVVr1r.png" alt="osTicket logo"/>
 </p>
 
 <h1>osTicket - Configuring Active Directory within Microsoft Azure</h1>
