@@ -8,9 +8,6 @@
 This tutorial outlines the prerequisites and installation of the open-source help desk ticketing system osTicket.<br />
 
 
-<h2>Video Demonstration</h2>
-
-- ### [YouTube: How To Install osTicket with Prerequisites](https://www.youtube.com)
 
 <h2>Environments and Technologies Used</h2>
 
@@ -28,7 +25,7 @@ Promote the server to Domain controller
 Create Users and Groups
 Join Client Computers to the Domain
 
-<h2>Installation Steps</h2>
+
 
 <p>
 <img src="https://i.imgur.com/EV9EJOw.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
